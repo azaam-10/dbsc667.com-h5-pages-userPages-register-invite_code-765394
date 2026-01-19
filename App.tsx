@@ -1,7 +1,7 @@
 
 import React from 'react';
-import Dashboard from './components/Dashboard';
-import TransactionModal from './components/TransactionModal';
+import Dashboard from './components/Dashboard.tsx';
+import TransactionModal from './components/TransactionModal.tsx';
 
 const App: React.FC = () => {
   return (
